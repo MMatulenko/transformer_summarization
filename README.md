@@ -1,6 +1,6 @@
 # XSum Text Summarization
 
-This project uses a T5 Seq2Seq model to perform text summarization on the XSum dataset. The code is provided as a Jupyter Notebook and can be run directly in a GitHub Notebook.
+This project uses a T5 Seq2Seq model to perform text summarization on the XSum dataset. The code is provided as a Colab notebook.
 
 ## Usage
 
